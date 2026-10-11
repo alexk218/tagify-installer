@@ -4,26 +4,20 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>Tagify Manager</title>
         <item>
-            <title>1.0.8</title>
-            <pubDate>Sun, 11 Oct 2026 17:51:17 -0400</pubDate>
+            <title>1.0.9</title>
+            <pubDate>Sun, 11 Oct 2026 18:28:03 -0400</pubDate>
             <link>https://github.com/alexk218/tagify-installer/releases</link>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="plain-text"><![CDATA[Updates now finish inside Tagify Manager
+            <description sparkle:format="plain-text"><![CDATA[Tagify Manager 1.0.9
 
-• Install an update and relaunch directly from the update window. Your setup and settings stay in place.
-• Skip a version without seeing its startup prompt again. You can still choose Update now later.
-• If an update cannot be verified or downloaded, the current manager stays available.
-
-• Usage statistics now work automatically without an opt-in step. Previously saved opt-outs stay off; What’s shared? explains the data and includes the off switch.
-
-Managers 1.0.5 and 1.0.6 need one manual replacement to get this update flow.
+A simpler setup screen with the same install, update and repair tools.
 ]]></description>
-            <enclosure url="https://github.com/alexk218/tagify-installer/releases/download/v1.0.8/TagifyInstaller-mac.zip" length="3713325" type="application/octet-stream" sparkle:edSignature="RxZCcS3jtYoTJB/xoTa2uFwVPtRttNz/D9DyNgAnJ5nOOcpUvJj+DLmxrZwvXOdXp7sGojz/X9BII3Z/HlJ/Ag=="></enclosure>
+            <enclosure url="https://github.com/alexk218/tagify-installer/releases/download/v1.0.9/TagifyInstaller-mac.zip" length="3709586" type="application/octet-stream" sparkle:edSignature="LEbqkQV6RLYjq/yGbztSMPEVliT0WfwrV4Fi06QZOp3SGCFIikFl6+qSixPIOag1r1rPeYSrlQoy9pYrOwhKBg=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Q1bXQ+5XmDyGAI+1K7DeKV9VKsf5U6fw5ssZXHf3ITDKr1Wc+RPVbdzGxoUgizn2PzTY3mBC+iXS2KiSjrq6CA==
-length: 1803
+edSignature: Ht0/SMac5aQ6ymP2Nka3uwmHd54VC4HwLwWIgZo1iZOdQJWl4CaaW/lCbSzegGoiBUJJCNhpQvrz3vJMLvwNAQ==
+length: 1313
 -->
