@@ -1,8 +1,21 @@
-<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Tagify Manager</title>
+        <item>
+            <title>1.0.11</title>
+            <pubDate>Wed, 14 Oct 2026 11:24:08 -0400</pubDate>
+            <link>https://tagify.fm</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text"><![CDATA[Install and update Tagify directly from tagify.fm. Future Tagify Manager updates also come from tagify.fm.
+]]></description>
+            <enclosure url="https://github.com/alexk218/tagify-installer/releases/download/v1.0.11/TagifyInstaller-mac.zip" length="3710271" type="application/octet-stream" sparkle:edSignature="KguJQelN79TabATDwdju6jSSyOWAOHL5ARWAtyI8lGaUpVMqYJfxSvu+L1ytIB+mX/kA8PAmrqt9kqdLDrkABA=="/>
+        </item>
         <item>
             <title>1.0.9</title>
             <pubDate>Sun, 11 Oct 2026 18:28:03 -0400</pubDate>
@@ -14,10 +27,11 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
 
 A simpler setup screen with the same install, update and repair tools.
 ]]></description>
-            <enclosure url="https://github.com/alexk218/tagify-installer/releases/download/v1.0.9/TagifyInstaller-mac.zip" length="3709586" type="application/octet-stream" sparkle:edSignature="LEbqkQV6RLYjq/yGbztSMPEVliT0WfwrV4Fi06QZOp3SGCFIikFl6+qSixPIOag1r1rPeYSrlQoy9pYrOwhKBg=="></enclosure>
+            <enclosure url="https://github.com/alexk218/tagify-installer/releases/download/v1.0.9/TagifyInstaller-mac.zip" length="3709586" type="application/octet-stream" sparkle:edSignature="LEbqkQV6RLYjq/yGbztSMPEVliT0WfwrV4Fi06QZOp3SGCFIikFl6+qSixPIOag1r1rPeYSrlQoy9pYrOwhKBg=="/>
         </item>
     </channel>
-</rss><!-- sparkle-signatures:
-edSignature: Ht0/SMac5aQ6ymP2Nka3uwmHd54VC4HwLwWIgZo1iZOdQJWl4CaaW/lCbSzegGoiBUJJCNhpQvrz3vJMLvwNAQ==
-length: 1313
+</rss>
+<!-- sparkle-signatures:
+edSignature: qa4Udj6uzg5H379goOhMCTa+uxSBUIhSStVSPNNf7toEQUuqszVkZ6AnN8YmIs1hnwM6OPhZtPVE+/fjsMKiAg==
+length: 2153
 -->
